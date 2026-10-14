@@ -1,0 +1,1 @@
+# lutece-collab-module-elasticdata-suggest
